@@ -18,3 +18,5 @@ jobs:
           base_indepth: true
           repositories_forks: true
           repositories_batch: 300
+          config_twemoji: true
+          config_octicon: true
